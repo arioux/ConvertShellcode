@@ -1,9 +1,10 @@
 ConvertShellCode
 Description : ConvertShellcode takes Shellcode as input and disassemble 
-		      it in a list of instructions in assembly language.
-Author 		: Alain Rioux (admin@le-tools.com)
-WebSite		: http://le-tools.com/ConvertShellcode.html
-GitHub		: https://github.com/arioux/ConvertShellCode
+							it in a list of instructions in assembly language.
+Author 			: Alain Rioux (admin@le-tools.com)
+WebSite			: http://le-tools.com/ConvertShellcode.html
+GitHub			: https://github.com/arioux/ConvertShellCode
+FossHub     : http://code.fosshub.com/ConvertShellCode
 
 
 What is it
