@@ -4,7 +4,6 @@ Description : ConvertShellcode takes Shellcode as input and disassemble
 Author 			: Alain Rioux (admin@le-tools.com)
 WebSite			: http://le-tools.com/ConvertShellcode.html
 GitHub			: https://github.com/arioux/ConvertShellCode
-FossHub     : http://code.fosshub.com/ConvertShellCode
 
 
 Development

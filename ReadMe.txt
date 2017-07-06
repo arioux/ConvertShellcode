@@ -4,7 +4,6 @@ Description : ConvertShellcode takes Shellcode as input and disassemble
 Author 			: Alain Rioux (admin@le-tools.com)
 WebSite			: http://le-tools.com/ConvertShellcode.html
 GitHub			: https://github.com/arioux/ConvertShellCode
-FossHub     : http://code.fosshub.com/ConvertShellCode
 
 
 What is it
@@ -29,7 +28,7 @@ See:
 Licence
 -------
 
-Copyright (C) 2009-2015  Alain Rioux (le-tools.com)
+Copyright (C) 2009-2017  Alain Rioux (le-tools.com)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
